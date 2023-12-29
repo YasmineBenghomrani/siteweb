@@ -1,0 +1,20 @@
+.action input {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  background-color: cornflowerblue;
+}
+.action {
+  width: 100vw;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+section h2 {
+  font-size: 32px;
+  padding: 32px;
+  display: flex;
+  justify-content: center;
+}
